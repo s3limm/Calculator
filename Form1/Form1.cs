@@ -496,7 +496,7 @@ namespace NewCalculator
             txtResult.Text = result + "";
         }
 
-
+      
     }
 }
 
